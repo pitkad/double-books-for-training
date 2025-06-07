@@ -9,8 +9,8 @@ import json
 
 from constants_lib import instruction
 
-from graph_lib import clear_image_folder
-clear_image_folder()  #Очищаем папку с графиками
+#from graph_lib import clear_image_folder
+#clear_image_folder()  #Очищаем папку с графиками
 
 json_data = []
 
